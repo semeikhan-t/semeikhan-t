@@ -57,8 +57,8 @@ I focus on **Fullstack development** and **DevOps practices** — writing clean 
 ### Connect With Me
 
 - **Email**: [semeikhan.t@gmail.com]
-- **Telegram**: [@Semeikhan]
-- **LinkedIn**: [linkedin.com/in/temirlan-semeikhan]
+- **Telegram**: [[@Semeikhan](https://t.me/Semeikhan)]
+- **LinkedIn**: [[linkedin.com/in/temirlan-semeikhan](https://www.linkedin.com/in/temirlan-semeikhan/)]
 ---
 
 **Temirlan Semeikhan** • Kazakhstan • Fullstack & DevOps Engineer in the making
