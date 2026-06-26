@@ -2,9 +2,6 @@
 
 **Fullstack & DevOps enthusiast | Software & AI Engineering student**
 
-![GitHub followers](https://img.shields.io/github/followers/semeikhan-t?color=blue&style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/semeikhan-t?color=yellow&style=flat-square)
-
 ---
 
 ### About Me
@@ -31,8 +28,8 @@ I focus on **Fullstack development** and **DevOps practices** — writing clean 
 - Bash • Nginx • Monitoring basics
 
 **Other**
-- Redis (learning)
-- System Design fundamentals
+- Redis
+- System Design & Architecture
 
 ---
 
@@ -49,8 +46,6 @@ I focus on **Fullstack development** and **DevOps practices** — writing clean 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=semeikhan-t&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=semeikhan-t&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=semeikhan-t&theme=tokyonight&column=4)
 
 ---
 
