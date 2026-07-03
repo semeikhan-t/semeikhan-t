@@ -43,9 +43,9 @@ I focus on **Fullstack development** and **DevOps practices** — writing clean 
 
 ### GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=semeikhan-t&layout=compact&theme=tokyonight&hide_border=true)
+<image-card alt="Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=semeikhan-t&layout=compact&theme=tokyonight&hide_border=true" ></image-card>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=semeikhan-t&show_icons=true&theme=tokyonight&hide_border=true)
+<image-card alt="GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=semeikhan-t&show_icons=true&theme=tokyonight&hide_border=true" ></image-card>
 
 ---
 
