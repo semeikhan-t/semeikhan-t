@@ -1,6 +1,12 @@
-# Hi, I'm Temirlan 👋
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Temirlan;Fullstack+%26+DevOps+enthusiast;Software+%26+AI+Engineering+student" alt="Typing SVG" />
+  </a>
+</p>
 
-**Fullstack & DevOps enthusiast | Software & AI Engineering student**
+<p align="center">
+  <strong>Fullstack & DevOps enthusiast | Software & AI Engineering student</strong>
+</p>
 
 ---
 
@@ -9,27 +15,34 @@
 Hey! I'm a Software Engineering student passionate about building reliable, scalable applications and automating development processes.
 
 I focus on **Fullstack development** and **DevOps practices** — writing clean production-grade code and creating robust infrastructure that just works.
+
 ---
 
 ### Technologies & Tools
+
 **Backend**
-- Django • Node.js • Express • FastAPI
-- Python • C++ • Java • PostgreSQL • MySQL • SQL
-- REST APIs • Websocket • Authentication
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,nodejs,express,fastapi,py,cpp,java,postgres,mysql&theme=dark" alt="Backend skills" />
+  </a>
+</p>
 
 **Frontend**
-- TypeScript • React • Next.js (learning)
-- Tailwind CSS
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind&theme=dark" alt="Frontend skills" />
+  </a>
+</p>
 
 **DevOps & Infrastructure**
-- Linux • Docker • Docker Compose
-- Git • GitHub Actions (CI/CD)
-- Cloud fundamentals (AWS / GCP)
-- Bash • Nginx • Monitoring basics
 
-**Other**
-- Redis
-- System Design & Architecture
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,docker,aws,gcp,bash,nginx,redis,git&theme=dark" alt="DevOps skills" />
+  </a>
+</p>
 
 ---
 
@@ -43,19 +56,45 @@ I focus on **Fullstack development** and **DevOps practices** — writing clean 
 
 ### GitHub Stats
 
-<image-card alt="Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=semeikhan-t&layout=compact&theme=tokyonight&hide_border=true" ></image-card>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=semeikhan-t&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semeikhan-t&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-<image-card alt="GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=semeikhan-t&show_icons=true&theme=tokyonight&hide_border=true" ></image-card>
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=semeikhan-t&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=semeikhan-t&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+</p>
+
+---
+
+### Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/semeikhan-t/semeikhan-t/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/semeikhan-t/semeikhan-t/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/semeikhan-t/semeikhan-t/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
 ### Connect With Me
 
-- **Email**: [semeikhan.t@gmail.com]
-- **Telegram**: [[@Semeikhan](https://t.me/Semeikhan)]
-- **LinkedIn**: [[linkedin.com/in/temirlan-semeikhan](https://www.linkedin.com/in/temirlan-semeikhan/)]
+- **Email**: [semeikhan.t@gmail.com](mailto:semeikhan.t@gmail.com)
+- **Telegram**: [@Semeikhan](https://t.me/Semeikhan)
+- **LinkedIn**: [linkedin.com/in/temirlan-semeikhan](https://www.linkedin.com/in/temirlan-semeikhan/)
+
 ---
 
-**Temirlan Semeikhan** • Kazakhstan • Fullstack & DevOps Engineer in the making
+<p align="center">
+  <strong>Temirlan Semeikhan</strong> • Kazakhstan • Fullstack & DevOps Engineer in the making
+</p>
 
-*"Building reliable systems, one commit at a time."*
+<p align="center">
+  <em>"Building reliable systems, one commit at a time."</em>
+</p>
