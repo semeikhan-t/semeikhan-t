@@ -57,8 +57,8 @@ I focus on **Fullstack development** and **DevOps practices** — writing clean 
 ### GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=semeikhan-t&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=semeikhan-t&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-semeikhan.vercel.app/api?username=semeikhan-t&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-semeikhan.vercel.app/api/top-langs/?username=semeikhan-t&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
 </p>
 
 <p align="center">
