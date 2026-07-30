@@ -17,6 +17,9 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Actions GITHUB_TOKEN only sees the public calendar without private days;
+          # user PAT is needed so the grid matches Private contributions on the profile.
+          github_token: ${{ secrets.SUMMARY_CARD_TOKEN }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
