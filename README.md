@@ -57,22 +57,28 @@ I focus on **Fullstack development** and **DevOps practices** — writing clean 
 ### GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=semeikhan-t&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semeikhan-t&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=semeikhan-t&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=semeikhan-t&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=semeikhan-t&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=semeikhan-t&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=semeikhan-t&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=semeikhan-t&theme=tokyonight" alt="Profile stats card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=semeikhan-t&theme=tokyonight" alt="Productive time card" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=semeikhan-t&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
 </p>
 
 ---
 
 ### Contribution Snake
 
+<!-- Appears after Actions → generate snake → Run workflow creates the output branch -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/semeikhan-t/semeikhan-t/output/github-contribution-grid-snake-dark.svg" />
