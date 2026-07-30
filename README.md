@@ -62,7 +62,7 @@ I focus on **Fullstack development** and **DevOps practices** — writing clean 
 </p>
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=semeikhan-t&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=semeikhan-t&theme=tokyonight&hide_border=true&date=20260731" alt="GitHub Streak" />
 </p>
 
 <p align="center">
