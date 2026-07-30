@@ -66,8 +66,8 @@ I focus on **Fullstack development** and **DevOps practices** — writing clean 
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/semeikhan-t/semeikhan-t/main/profile-summary-card-output/tokyonight/stats.svg" alt="Profile stats card" />
-  <img src="https://raw.githubusercontent.com/semeikhan-t/semeikhan-t/main/profile-summary-card-output/tokyonight/productive-time.svg" alt="Productive time card" />
+  <img src="https://raw.githubusercontent.com/semeikhan-t/semeikhan-t/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Profile stats card" />
+  <img src="https://raw.githubusercontent.com/semeikhan-t/semeikhan-t/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time card" />
 </p>
 
 <p align="center">
