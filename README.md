@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Fullstack & DevOps enthusiast | Software & AI Engineering student</strong>
+  <strong>Fullstack enthusiast | Software & AI Engineering student</strong>
 </p>
 
 ---
@@ -14,7 +14,7 @@
 
 Hey! I'm a Software Engineering student passionate about building reliable, scalable applications and automating development processes.
 
-I focus on **Fullstack development** and **DevOps practices** — writing clean production-grade code and creating robust infrastructure that just works.
+I focus on **Fullstack development** — writing clean production-grade code and creating robust infrastructure that just works.
 
 ---
 
